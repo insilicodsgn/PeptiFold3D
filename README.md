@@ -123,3 +123,8 @@ score. Higher is better.
   structures do not contain meaningful B-factor quality scores.
 - For large batches, be mindful of ESM Atlas rate limits; the pipeline retries
   automatically on `503` / `429` responses.
+
+##  Contact
+
+IN SILICO DESIGN - Alican ŞENTÜRK, Ege ALTUN, Abdülkadir KAYA and Emre Can BULUZ
+Note: If you wish to edit or use the code, please mention In Silico Design and Alican ŞENTÜRK, Ege ALTUN, Abdülkadir KAYA and Emre Can BULUZ.
