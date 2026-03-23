@@ -1,0 +1,32 @@
+name: peptifold3D
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+
+  # Core scientific stack
+  - numpy=1.26.0
+  - matplotlib=3.5.1
+
+  # Molecular structure & simulation
+  - openmm=8.4.0
+
+  - pip:
+      # Sequence parsing & structure I/O
+      - biopython==1.79
+      - PeptideBuilder==1.1.0
+
+      # Structure fixing & hydrogen placement
+      - pdbfixer==1.12.0
+
+      # HTTP requests (ESM Atlas API)
+      - requests==2.32.3
+
+      # (Optional) local ESMFold – requires a GPU with ≥16 GB VRAM
+      # Uncomment if you want to experiment with local inference:
+      # - torch==2.6.0         # install matching your CUDA version
+      # - transformers==5.3.0
+      # - accelerate
