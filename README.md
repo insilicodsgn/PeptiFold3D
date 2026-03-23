@@ -127,4 +127,5 @@ score. Higher is better.
 ##  Contact
 
 IN SILICO DESIGN - Alican ŞENTÜRK, Ege ALTUN, Abdülkadir KAYA and Emre Can BULUZ
+
 Note: If you wish to edit or use the code, please mention In Silico Design and Alican ŞENTÜRK, Ege ALTUN, Abdülkadir KAYA and Emre Can BULUZ.
