@@ -45,10 +45,10 @@ conda activate peptifold3D
 Standard FASTA with APD codes as sequence IDs:
 
 ```
->AP00176
+>Pep_1
 ACYCRIPACIAGERRYGTCIYQGRLWAFCC
 
->AP00177
+>Pep_2
 CYCRIPACIAGERRYGTCIYQGRLWAFCC
 ```
 
