@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="peptifold_logo" src="https://github.com/user-attachments/assets/daa93cb6-9659-4da0-a3da-386f47ce1d1e" />
+
 # PeptiFold3D
 
 Automated pipeline that reads antimicrobial peptides from an APD-format FASTA file,
