@@ -30,7 +30,7 @@ Used automatically when the ESM Atlas API is unreachable.
 
 ```bash
 conda env create -f environment.yml
-conda activate peptide-pipeline
+conda activate peptifold3D
 ```
 
 > **Note:** `openmm` is installed via conda-forge because it ships compiled platform
