@@ -2,7 +2,7 @@
 
 # PeptiFold3D
 
-Automated pipeline that reads antimicrobial peptides from an APD-format FASTA file,
+Automated pipeline that reads peptides from an txt (FASTA) file,
 generates predicted 3D structures using **ESMFold**, and produces per-residue quality
 (pLDDT) plots for each peptide.
 
